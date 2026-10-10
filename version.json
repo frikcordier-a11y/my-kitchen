@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "notes": "OpenAI and Groq added as AI choices in Settings.",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "notes": "Cheapest shop, home-screen widget, Telegram adding, use-by from photo, recipe book, school lunches.",
   "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }
