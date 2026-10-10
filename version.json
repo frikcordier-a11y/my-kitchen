@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "notes": "Till slips, voice adding, how much is left, and a monthly report.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "notes": "OpenAI and Groq added as AI choices in Settings.",
   "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }
