@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "notes": "Cheapest shop, home-screen widget, Telegram adding, use-by from photo, recipe book, school lunches.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "notes": "New Used button: what you use goes straight onto the shopping list.",
   "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }
