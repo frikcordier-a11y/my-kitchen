@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "notes": "First version.",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "notes": "New Readings tab: blood pressure, sugar, weight, temperature and oxygen from a photo.",
   "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/family-doctor/FamilyDoctor.apk"
 }
