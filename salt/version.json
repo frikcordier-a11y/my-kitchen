@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "notes": "First version of Salt.",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "notes": "Import your payslip and bank statement (PDF, CSV or photo).",
   "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }
