@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "notes": "New Used button: what you use goes straight onto the shopping list.",
+  "versionCode": 11,
+  "versionName": "1.10",
+  "notes": "Shopping mode in the shop, Always-have staples, and supper ideas that respect Family Doctor's allergies and conditions.",
   "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }
