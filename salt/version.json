@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "notes": "Cash wallet, work claims, safe-to-spend, bank balance and 30-day view, yearly costs, price-rise alerts, payslip compare, fuel and electricity logs, bank notifications, weekly summary, fingerprint lock.",
-  "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
+    "versionCode":  4,
+    "versionName":  "1.3",
+    "notes":  "Linked with My Kitchen and Family Doctor: till slips and medical costs come in by themselves.",
+    "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }

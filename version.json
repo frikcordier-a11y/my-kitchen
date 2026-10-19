@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "notes": "Undo button, load-shedding suppers, freezer check, ask the Telegram bot what's at home, recipes from a photo, and guests or braai planning.",
-  "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
+    "versionCode":  13,
+    "versionName":  "1.12",
+    "notes":  "Small improvements and fixes.",
+    "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }

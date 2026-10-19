@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "notes": "Appointments with reminders, prescription photo, and a check-in when medicine isn't ticked.",
-  "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/family-doctor/FamilyDoctor.apk"
+    "versionCode":  5,
+    "versionName":  "1.4",
+    "notes":  "Small improvements and fixes.",
+    "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/family-doctor/FamilyDoctor.apk"
 }
