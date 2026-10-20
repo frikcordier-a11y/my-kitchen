@@ -1,6 +1,6 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.4",
-    "notes":  "Family budget: share one Salt with your family (⚙ → Family budget).",
+    "versionCode":  6,
+    "versionName":  "1.5",
+    "notes":  "Bank notifications: money in and salary, keeps your balance up to date, Scan now, and \u0027What Salt saw\u0027.",
     "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }
