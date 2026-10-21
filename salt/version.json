@@ -1,6 +1,6 @@
-{
-    "versionCode":  6,
-    "versionName":  "1.5",
-    "notes":  "Bank notifications: money in and salary, keeps your balance up to date, Scan now, and \u0027What Salt saw\u0027.",
+﻿{
+    "versionCode":  7,
+    "versionName":  "1.6",
+    "notes":  "Ask Salt: ask any money question, e.g. \u0027Can we afford a braai this weekend?\u0027, answered from your real numbers.",
     "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }

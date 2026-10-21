@@ -1,6 +1,6 @@
-{
-    "versionCode":  13,
-    "versionName":  "1.12",
-    "notes":  "Small improvements and fixes.",
+﻿{
+    "versionCode":  14,
+    "versionName":  "1.13",
+    "notes":  "Rate suppers after cooking: loved it, OK or not again. \u0027Not again\u0027 meals are never suggested again.",
     "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }
