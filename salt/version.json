@@ -1,6 +1,6 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
-    "notes":  "Ask Salt: ask any money question, e.g. \u0027Can we afford a braai this weekend?\u0027, answered from your real numbers.",
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "notes":  "Pocket money, electricity and repair costs from the new Huis app come in by themselves.",
     "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }
