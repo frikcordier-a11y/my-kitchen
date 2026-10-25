@@ -1,6 +1,6 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.8",
-    "notes":  "Altcoin Trader on your phone only (settings), and money moved to Altcoin Trader now counts as saved, not spent.",
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "notes":  "Your Altcoin Trader balance can count toward a savings goal, on your own phone only.",
     "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }
