@@ -1,6 +1,6 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.7",
-    "notes":  "Pocket money, electricity and repair costs from the new Huis app come in by themselves.",
+    "versionCode":  9,
+    "versionName":  "1.8",
+    "notes":  "Altcoin Trader on your phone only (settings), and money moved to Altcoin Trader now counts as saved, not spent.",
     "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/salt/Salt.apk"
 }
