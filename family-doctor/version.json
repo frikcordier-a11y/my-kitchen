@@ -1,6 +1,6 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.4",
-    "notes":  "Small improvements and fixes.",
-    "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/family-doctor/FamilyDoctor.apk"
+    "versionCode": 6,
+    "versionName": "1.5",
+    "notes": "Emergency card widget for the home screen, vaccinations and check-ups due by age, and a medical aid tracker for claims and savings.",
+    "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/family-doctor/FamilyDoctor.apk"
 }
