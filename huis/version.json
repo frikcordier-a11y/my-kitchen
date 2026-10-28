@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
-    "notes": "To-fix list, warranties and manuals, suggested house, car, garden and pool jobs, a weekly chore tally, and prepaid electricity is now optional.",
+    "versionCode": 3,
+    "versionName": "1.2",
+    "notes": "Snap a photo of something broken (camera or gallery) and Huis fills in what it is, how urgent, and the parts needed.",
     "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/huis/Huis.apk"
 }
