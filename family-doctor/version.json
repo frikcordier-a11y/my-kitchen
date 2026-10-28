@@ -1,6 +1,6 @@
 {
-    "versionCode": 6,
-    "versionName": "1.5",
-    "notes": "Emergency card widget for the home screen, vaccinations and check-ups due by age, and a medical aid tracker for claims and savings.",
+    "versionCode": 7,
+    "versionName": "1.6",
+    "notes": "Family setup: the AI key and language are shared with your other family apps on this phone, and a family pass sets up another phone in one go. Updates also keep working when the download page is private.",
     "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/family-doctor/FamilyDoctor.apk"
 }

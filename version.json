@@ -1,6 +1,6 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.13",
-    "notes":  "Rate suppers after cooking: loved it, OK or not again. \u0027Not again\u0027 meals are never suggested again.",
-    "apk":  "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
+    "versionCode": 15,
+    "versionName": "1.14",
+    "notes": "Family setup: the AI key and language are shared with your other family apps on this phone, and a family pass sets up another phone in one go. Updates also keep working when the download page is private.",
+    "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/MyKitchen.apk"
 }

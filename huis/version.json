@@ -1,6 +1,6 @@
 {
-    "versionCode": 3,
-    "versionName": "1.2",
-    "notes": "Snap a photo of something broken (camera or gallery) and Huis fills in what it is, how urgent, and the parts needed.",
+    "versionCode": 4,
+    "versionName": "1.3",
+    "notes": "Family setup: the AI key and language are shared with your other family apps on this phone, and a family pass sets up another phone in one go. Updates also keep working when the download page is private.",
     "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/huis/Huis.apk"
 }
