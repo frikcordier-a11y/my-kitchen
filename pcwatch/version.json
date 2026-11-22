@@ -1,6 +1,6 @@
 {
-    "versionCode": 1,
-    "versionName": "1.0",
-    "notes": "First version: find devices on your Wi-Fi, watch your PC's screen and webcam, and see what was used today.",
+    "versionCode": 2,
+    "versionName": "1.1",
+    "notes": "Share this phone's camera so the PC app can watch it, game consoles and phones named in the list, and a tip when a PC can't be opened.",
     "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/pcwatch/PCWatch.apk"
 }
