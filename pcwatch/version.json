@@ -1,0 +1,6 @@
+{
+    "versionCode": 1,
+    "versionName": "1.0",
+    "notes": "First version: find devices on your Wi-Fi, watch your PC's screen and webcam, and see what was used today.",
+    "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/pcwatch/PCWatch.apk"
+}
