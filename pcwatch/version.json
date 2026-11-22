@@ -1,6 +1,7 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
-    "notes": "Share this phone's camera so the PC app can watch it, game consoles and phones named in the list, and a tip when a PC can't be opened.",
+    "versionCode": 3,
+    "versionName": "1.2",
+    "notes": "Lock or shut down the PC from your phone, and flag bad sites: adult/illegal words are marked in the history and listed under alerts on the PC app."
+,
     "apk": "https://raw.githubusercontent.com/frikcordier-a11y/my-kitchen/main/pcwatch/PCWatch.apk"
 }
